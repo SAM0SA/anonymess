@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "818536504455",
+    "firebase_url": "https://anonymess-b3246.firebaseio.com",
+    "project_id": "anonymess-b3246",
+    "storage_bucket": "anonymess-b3246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818536504455:android:f1fe3a11f1d9292e",
+        "android_client_info": {
+          "package_name": "com.samhith.anonymess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818536504455-op3qvsbdroic8cd2d1q41ujiplkcpvd8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.samhith.anonymess",
+            "certificate_hash": "2192c73b6f75037100361831c3bbc67f4dca3c7b"
+          }
+        },
+        {
+          "client_id": "818536504455-7tp9gfprho3qgut8i0oot2e7sgcd21h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzP4LXqQ4ewEog30QBJrboKiqD4XMQIRw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818536504455-7tp9gfprho3qgut8i0oot2e7sgcd21h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#d25e5e</color>
+    <color name="colorPrimaryDark">#b94141</color>
+    <color name="colorPrimaryLight">#DD8585</color>
+    <color name="colorAccent">#505052</color>
+
+    <!--Status Bar Colors-->
+    <color name="statusbarColorPrimary">#A23838</color>
+    <color name="statusbarColorWhite">#ffffff</color>
+
+    <!--Button Colors-->
+    <color name="newMessageButtonColor">#505052</color>
+    <color name="off_white">#e7ffffff</color>
+
+    <!--BorderColors-->
+    <color name="inputOutLineColor">#95989A</color>
+</resources>
